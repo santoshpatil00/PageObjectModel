@@ -8,7 +8,7 @@ public class LoginTest {
 	public void test1()
 	{
 		
-		System.out.println("LoginTest Class Test1()");
+		System.out.println("in LoginTest Class Test1()");
 	}
 
 	
